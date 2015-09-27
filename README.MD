@@ -5,6 +5,7 @@ When you click on a link in a YouTube videos description YouTube does not direct
 Instead they redirect you to a page where they can track your clicking activities and auto-redirect you to the destination page.
 This extension fixes that behavior by sending you to the destination site directly.
 
-The code is licenced under the MIT licence (see LICENSE.MD).
+Grab the extension here: https://chrome.google.com/webstore/detail/youtube-redirect-tracking/ggokjgndnggpkodljbhhbppfnkdoeooc?authuser=0
 
+The code is licenced under the MIT licence (see LICENSE.MD).  
 The icons are licenced under CC0 https://creativecommons.org/publicdomain/zero/1.0/
