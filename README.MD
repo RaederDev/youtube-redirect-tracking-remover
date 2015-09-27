@@ -6,4 +6,5 @@ Instead they redirect you to a page where they can track your clicking activitie
 This extension fixes that behavior by sending you to the destination site directly.
 
 The code is licenced under the MIT licence (see LICENSE.MD).
+
 The icons are licenced under CC0 https://creativecommons.org/publicdomain/zero/1.0/
